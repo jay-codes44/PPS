@@ -1,6 +1,6 @@
 /*
-PRN : 26070122272
-NAME : Jay Mangukiya
+PRN : 26070122
+NAME : 
 BATCH : CSE C3
 */
 
@@ -8,9 +8,9 @@ BATCH : CSE C3
 int main()
  {
     int i, n;
-    printf("Enter the number of terms: ");
+    printf("Enter n: ");
     scanf("%d", &n);
-    for(i = n; i >= 1; i--)
+    for(i = 1; i <= n; i++)
      {
         printf("%d\n", i);
     }

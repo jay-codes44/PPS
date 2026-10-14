@@ -1,6 +1,6 @@
 /*
-PRN : 26070122272
-NAME : Jay Mangukiya
+PRN : 26070122
+NAME : 
 BATCH : CSE C3
 */
 #include <stdio.h>
@@ -17,6 +17,5 @@ int main()
     }
 
     printf("Number of digits: %d\n", count);
-    retu
-    \rn 0;
+    return 0;
 }
